@@ -1,0 +1,27 @@
+{
+ "name": "FRI_Scototaxis",
+ "dataDirectory": "D:\\FRI_Scototaxis_CUI",
+ "author": "Hao Cui",
+ "email": "",
+ "videoplayer": "vlc",
+ "nClasses": 1,
+ "modifiers": false,
+ "codes": [
+  "q, w, p, o"
+ ],
+ "codeArray": [
+  [
+   "q",
+   " w",
+   " p",
+   " o"
+  ]
+ ],
+ "keyCodes": [
+  "q",
+  "w",
+  "p",
+  "o"
+ ],
+ "modifiedCodes": null
+}

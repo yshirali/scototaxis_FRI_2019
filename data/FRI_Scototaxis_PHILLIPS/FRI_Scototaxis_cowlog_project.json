@@ -1,0 +1,27 @@
+{
+ "name": "FRI_Scototaxis",
+ "dataDirectory": "/Volumes/FRI_GROUP_6/FRI_Scototaxis_PHILLIPS",
+ "author": "Serena Jane Phillips",
+ "email": "",
+ "videoplayer": "vlc",
+ "nClasses": 1,
+ "modifiers": false,
+ "codes": [
+  "q,w,p,o"
+ ],
+ "codeArray": [
+  [
+   "q",
+   "w",
+   "p",
+   "o"
+  ]
+ ],
+ "keyCodes": [
+  "q",
+  "w",
+  "p",
+  "o"
+ ],
+ "modifiedCodes": null
+}

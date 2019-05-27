@@ -1,0 +1,27 @@
+{
+ "name": "FRI_Scototaxis",
+ "dataDirectory": "/Volumes/EMILOU/FRI_Scototaxis_ESTRELLADO",
+ "author": "",
+ "email": "",
+ "videoplayer": "vlc",
+ "nClasses": 1,
+ "modifiers": false,
+ "codes": [
+  "q,w,p,o"
+ ],
+ "codeArray": [
+  [
+   "q",
+   "w",
+   "p",
+   "o"
+  ]
+ ],
+ "keyCodes": [
+  "q",
+  "w",
+  "p",
+  "o"
+ ],
+ "modifiedCodes": null
+}

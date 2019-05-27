@@ -1,0 +1,27 @@
+{
+ "name": "FRI_Scototaxis_MARTINEZ",
+ "dataDirectory": "E:\\FRI_Scototaxis_MARTINEZ",
+ "author": "Kiyara Martinez",
+ "email": "",
+ "videoplayer": "vlc",
+ "nClasses": 1,
+ "modifiers": false,
+ "codes": [
+  "q,w,p,o"
+ ],
+ "codeArray": [
+  [
+   "q",
+   "w",
+   "p",
+   "o"
+  ]
+ ],
+ "keyCodes": [
+  "q",
+  "w",
+  "p",
+  "o"
+ ],
+ "modifiedCodes": null
+}

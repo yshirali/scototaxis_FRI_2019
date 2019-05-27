@@ -1,0 +1,27 @@
+{
+ "name": "FRI_Scototaxis",
+ "dataDirectory": "/Volumes/FRI_GROUP_3/FRI_Scototaxis_HAWKINS",
+ "author": "Paige Hawkins",
+ "email": "",
+ "videoplayer": "vlc",
+ "nClasses": 1,
+ "modifiers": false,
+ "codes": [
+  "q, w, p, o"
+ ],
+ "codeArray": [
+  [
+   "q",
+   " w",
+   " p",
+   " o"
+  ]
+ ],
+ "keyCodes": [
+  "q",
+  "w",
+  "p",
+  "o"
+ ],
+ "modifiedCodes": null
+}
